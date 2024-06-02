@@ -40,6 +40,8 @@ print(test_dict.get('car'))
 # do reasearch and use the update method to add another key value pair
 
 test_dict.update({6:'cat'})
-print(test_dict.items())
+test_dict.update(final='world')
+test_dict['E'] = 234
+print(test_dict)
 
 
