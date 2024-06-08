@@ -18,11 +18,11 @@ len('this word')
 
 #we will not be able to see anything until we use the print function to see the value of len
 
-#now tjis will show us the length of this word
+#now this will show us the length of this word
 print(len('this word'))
 
 
-#some function accepts mulptiple arguments
+#some function accepts multiple arguments
 print('first arg','second arg')
 
 find_max_vALUE = max(10,2,45)

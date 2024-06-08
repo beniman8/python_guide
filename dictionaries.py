@@ -1,14 +1,14 @@
 '''
-is a complexe container for other variables 
+is a complex container for other variables 
 
 {'key':'value',1:[1,2,3]}
 
-dicttionaries are nothing but organized container where every key gets a value
+dictionaries are nothing but organized container where every key gets a value
 
 think about it as a self storage unit that has a key for every unit that needs to be used 
-in order to acces the value or items that are inside the locker/ storage.
+in order to access the value or items that are inside the locker/ storage.
 
-you can not duplicate keys , once you add the same key you are overiding the old one
+you can not duplicate keys , once you add the same key you are overriding the old one
 
 indexing does not work with dictionary
 
@@ -32,12 +32,12 @@ print(str(test_dict))
 
 #indexing or return a value in the dictionary
 print(test_dict['car'])
-#get is a bit better because it doesnt crash when it does not get a key
+#get is a bit better because it doesn't crash when it does not get a key
 print(test_dict.get('car'))
 
 
 #Exercise 
-# do reasearch and use the update method to add another key value pair
+# do research and use the update method to add another key value pair
 
 test_dict.update({6:'cat'})
 test_dict.update(final='world')
