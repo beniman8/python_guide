@@ -16,7 +16,7 @@ string can also be use with math operation 'you' + 'me'
 # print(test_var2)
 
 
-# # quotes inside of string must not match the one suronding the string
+# # quotes inside of string must not match the one surrounding the string
 # test_var3= 'He said "this was great" '
 
 # #using simple escape character use before a character you want python to read as a character
@@ -57,7 +57,7 @@ string can also be use with math operation 'you' + 'me'
 
 
 #how to get values into strings
-# name= "jhon"
+# name= "john"
 # age = 67
 
 # #using F string
@@ -71,10 +71,10 @@ string can also be use with math operation 'you' + 'me'
 
 
 
-#excersis
+#exercise
 #create f string that says: hello, my name is X and my hobby is Y
-#X and Y should be seperate variables
-#the second half of the sentence should also be on a seperate line
+#X and Y should be separate variables
+#the second half of the sentence should also be on a separate line
 
 X='Garry'
 Y='fishing'
