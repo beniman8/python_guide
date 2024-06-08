@@ -1,5 +1,5 @@
 '''
-the different ways your code can be writen
+the different ways your code can be written
 
 
 True value if expression else False value
