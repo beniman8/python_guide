@@ -1,6 +1,9 @@
 {
     "cSpell.words": [
+        "arange",
         "Dunder",
-        "pytz"
+        "pyautogui",
+        "pytz",
+        "ylabel"
     ]
 }
