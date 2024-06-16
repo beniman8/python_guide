@@ -1,2 +1,1 @@
-
-    
+print(pytz.all_timezones)
