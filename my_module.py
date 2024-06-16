@@ -14,3 +14,6 @@ class TEST:
         
 def sum_it(*args):
     return sum(args)
+
+
+print(__name__)

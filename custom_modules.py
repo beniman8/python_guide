@@ -8,3 +8,5 @@ classs =my_module.TEST()
 print(classs.name)
 
 print(my_module.sum_it(1,2,1))
+
+print(__name__)
