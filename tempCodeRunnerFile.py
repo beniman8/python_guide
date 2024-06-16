@@ -1,3 +1,5 @@
-plt.plot(t,t,'r--',t,t**2,'bs',t,t**3,'g^')
 
-# plt.show()
+# if isinstance(var_must_be_string,str):
+#     print(var_must_be_string)
+# else:
+#     raise TypeError('Must be a string')
